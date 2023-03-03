@@ -50,10 +50,10 @@ body {
   -webkit-hyphens: auto; }
 
 a {
-  color: #224afa;
+  color: #FF9933;
   text-decoration: none; }
   a:hover {
-    color: #1538d1; }
+    color: #FF9966; }
 
 ul {
   list-style: none; }
@@ -63,7 +63,7 @@ ul {
   padding-right: 2em; }
 
 .accent-text {
-  color: #224afa; }
+  color: #FF9933; }
 
 .default-text {
   color: #2f2f2f; }

@@ -1,6 +1,6 @@
 baseURL: https://example.com
 languageCode: en-us
-title: Yourfolio Theme
+title: HOOL.BTC
 theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
 googleAnalytics: UA-XXXXX-Y
@@ -19,4 +19,4 @@ menu:
 params:
   env: development
   logoImage: img/logo.png
-  logoImageAlt: Yourfolio Theme brand logo
+  logoImageAlt: HOOL brand logo

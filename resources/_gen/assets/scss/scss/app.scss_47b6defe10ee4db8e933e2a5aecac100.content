@@ -61,7 +61,7 @@
     max-width: 100%;
     height: auto; }
   a:hover .project-hover {
-    background: #224afa;
+    background: #FF9933;
     color: #ffffff;
     opacity: 0.9;
     -webkit-transition: opacity 200ms linear;
