@@ -4,7 +4,7 @@ date: 2017-11-09T14:50:58+02:00
 draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero porro tempore voluptas voluptatibus eius a non numquam, quibusdam enim eos.
 header:
-  description: Every project starts with a <span class="accent-text">conversation</span>, just drop me a line and let's create something great together.
+  description: 装修中
   image:
     url: contact-hero.png
     alt: The chair for meeting image

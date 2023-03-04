@@ -4,7 +4,7 @@ date: 2017-11-08T16:56:15+02:00
 draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores porro voluptas esse natus nemo aperiam asperiores velit neque, magni molestiae!
 header:
-  description: I'm a multidisciplinary designer who specializing in <span class="accent-text">UI, UX and Visual Design</span>. Currently based in United Kingdom.
+  description: I'm a multidisciplinary designer who specializing in <span class="accent-text">3D, UI and Visual Design</span>. Currently based in Shanghai.
   image:
     url: about-hero.png
     alt: The designer's workspace table image
@@ -16,13 +16,13 @@ header:
     - options: 490x318 Center jpg
 text_groups:
   - name: About
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis saepe perferendis culpa aut libero, <span class="default-text bold-text">voluptatem voluptatum</span>, ut beatae ipsa sint alias autem ipsum ea quibusdam suscipit provident illo nihil nostrum porro. Omnis et hic eum in corrupti dicta cum fugiat!
-  - name: Philosophy
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus incidunt autem quia aliquid officia temporibus saepe ut quas nesciunt dolorum odio optio perspiciatis rem accusamus expedita nemo quis, fuga voluptatem. Corrupti vero asperiores officia, ipsa ipsam. Suscipit repellendus molestias, sint quas voluptates quia vitae quidem.
-  - name: Disciplines
-    description: <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
-  - name: Get in touch
-    description: <a class="accent-text bold-text" href="mailto:hello@example.com?subject=Hello,%20Yates!%20Lets%20make%20something%20great%20together!">hello@example.com</a>
+    description: 2018 Listen to podcast FOMO <span class="default-text bold-text">BTC</span> and buy at LocoBitcoins.<br>2019 <span class="default-text bold-text">ETH</span> last generation miner<br>2021 <span class="default-text bold-text">Tradingview</span> Pine Quantitative Self-taught <span class="default-text bold-text">Trading</span><br>2022 <a href="https://oddowlclub.viide.io/"target="_blank">OddOwl Club</a> Community Mod<br>2022 <a href="https://degentoonz.io/"target="_blank">Degen Toonz</a> / <a href="https://soulda16.club"target="_blank">Soulda</a> / <span class="default-text bold-text">Maine Labs</span> Community Volunteer Designer<br>2022 <a href="https://hool.btc.us/">Hool.BTC</a> Founder Web 3 related design and creation<br>2023 <a href="https://twitter.com/aloha_club_/target="_blank"">Aloha Club</a> CO Founder An open and inclusive activity aggregation platform<br>2023 <a href="https://twitter.com/rocketalphanft/"target="_blank">Rocket Alpha Club</a> NFT Community OG<br>2023 <span class="default-text bold-text">Ordinals</span> Bitcoin NFT Community OG<br>2023 <a href="https://bitcoinpunks.com/"target="_blank">Bitcoin Punk</a> Community Volunteer Designer
+  - name: Skill
+    description: Passionate about the Web3 field, familiar with the basics of Web3, including blockchain fundamentals, basic logic of various cryptocurrencies, such as NFT/GameFi/DeFi/DAO, etc., familiar with public chain ecosystems such as BSC and ETH.
+  - name: Software
+    description: <p>Figma</p><p>PhotoShop/Illustrator/Indesign</p><p>AutoCAD/SketchUp/Blander/UE4</p><p>Enscape/Lumion/D5Render</p><p>TouchDesigner</p>
+  - name: Resume
+    description: <a href="https://raw.githubusercontent.com/IHORLAN/hool.github.io/main/web3_%E5%BC%A0%E5%AE%8F%E4%BA%AE_13067744447.pdf" download="">2023 Resume Download</a>
     class: line
 ---
 

@@ -5,7 +5,7 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: Hello, my name is Horlan. I live and work in Shanghai. Building on <span class="accent-text">web3</span>.<br>I'm keen on <span class="accent-text">design and photography</span>.0
+  description: Hello, my name is Horlan. I live and work in Shanghai. Building on <span class="accent-text">web3</span>.<br>I'm keen on <span class="accent-text">design and photography</span>.
   image:
     url: home-hero.png
     alt: The top of mountain image
@@ -19,8 +19,8 @@ header:
     - options: 360x318 jpg
       cmd: Fit
 text_groups:
-  - name: Intro
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia esse aut, blanditiis ullam. Similique quo iusto ipsa, excepturi autem voluptate consectetur sit quae praesentium <span class="default-text bold-text">aliquam molestiae</span> minima ex perferendis aut unde tempora amet esse inventore quaerat molestias eum distinctio eligendi ducimus. Commodi voluptatem ab debitis inventore, laborum at maiores reiciendis dolor deleniti ipsam distinctio voluptas eos autem quidem a quia laboriosam similique soluta rem? Eum.
+  - name: Intro 
+    description: Due to the downturn related to real estate, I switched careers to find a new track and started again. I have been engaged in the <span class="default-text bold-text">design industry for five years</span>, and I want to transform into an all-round talent who can complete project planning. I advocate the spirit of blockchain and I am willing to contribute to the joint construction of the Web3 world. 
 projects:
   - title: Strato
     type: wed design

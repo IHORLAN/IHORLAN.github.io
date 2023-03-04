@@ -9,11 +9,20 @@ googleAnalytics: UA-XXXXX-Y
 menu:
   main:
   - name: About
-    weight: 1
+    weight: 4
     url: /about
   - name: Contact
-    weight: 2
+    weight: 5
     url: /contact
+  - name: Aloha Club
+    weight: 1
+    url: /alohaclub
+  - name: Foto OK
+    weight: 2
+    url: /fotook
+  - name: Gallery
+    weight: 3
+    url: /gallery
 
 # Custom params
 params:
